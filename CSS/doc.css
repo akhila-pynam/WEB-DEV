@@ -1,0 +1,38 @@
+body{
+    background-color : black;
+}
+
+h1{
+    color : white;
+}
+
+
+/* Use Hash Before Id, For Individual Colouring */
+
+#p1{
+    color : purple;
+}
+
+#p2{
+    color : purple;
+}
+
+#p3{
+    color : purple;
+}
+
+#p4{
+    color : purple;
+}
+
+#p5{
+    color : purple;
+}
+
+#p6{
+    color : purple;
+}
+
+#p7{
+    color : purple;
+}

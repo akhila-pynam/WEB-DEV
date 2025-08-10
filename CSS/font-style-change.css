@@ -1,0 +1,16 @@
+/* Font Family - Changing The Style Of Font Is Nothing But Font Family */
+
+body{
+    background-color : black;
+}
+
+h1{
+    color : green;
+    font-family : "Bitcount";    
+}
+
+p{
+    color : red;
+    font-family : 'Lucida Sans';
+}
+
